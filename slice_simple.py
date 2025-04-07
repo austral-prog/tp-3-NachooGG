@@ -7,4 +7,4 @@ def slice_simple():
     
     print(awe)
     print(eso)
-    print(txt)
+    print(texto)
