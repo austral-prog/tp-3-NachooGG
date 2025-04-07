@@ -1,6 +1,6 @@
 def slice_simple():
     texto = "Awesome"
-    texto = txt.lower()
+    texto = texto.lower()
     awe = texto[0:3]
     eso = texto[2:5]
     awesome = texto[0:]
